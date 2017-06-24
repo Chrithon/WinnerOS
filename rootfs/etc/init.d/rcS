@@ -1,0 +1,23 @@
+//WinnerOS 1.0
+//Date: 2017-6-24 16:40
+//Location: Putuo District£¬Shanghai£¬China
+//You can change this file!
+#! /bin/sh
+mount -o remount,rw /
+/bin/mount -a
+>/etc/mtab
+echo
+echo
+echo
+echo
+echo -en "\t\tWelcom to \\033[0;32mWinnerOS 1.0\\033[0;39m\n"
+echo -en "\\033[0;36m\n"
+echo
+echo -en "+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ \t\t\n"
+echo -en "This is a tiny linux system based on a CD . \t\t\n"
+echo -en "If you have any problem you can mailto : \t\t\n"
+echo -en "877259039@qq.com \t\t\n"
+echo -en "RUN YOUR OWN RISK of using it ! Enjoy ! : )\t\t\n"
+echo -en "\\033[0;39m\n"
+hostname WinnerPC
+//You can change this file!

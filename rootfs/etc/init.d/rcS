@@ -1,6 +1,6 @@
 //WinnerOS 1.0
 //Date: 2017-6-24 16:40
-//Location: Putuo District£¬Shanghai£¬China
+//Location: Putuo District,Shanghai,China
 //You can change this file!
 #! /bin/sh
 mount -o remount,rw /
